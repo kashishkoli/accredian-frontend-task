@@ -39,18 +39,18 @@ const Hero = () => {
       <div className="flex bg-blue-100 w-[797px] h-[63px] justify-center rounded-full ">
         <ul className="flex font-medium items-center justify-center space-x-24">
           <li>
-            <a href="#" className="text-blue-500">
+            <a href="#ref" className="text-blue-500">
               Refer
             </a>
           </li>
           <li>
-            <a href="#">Benefits</a>
+            <a href="#ben">Benefits</a>
           </li>
           <li>
-            <a href="#">FAQ</a>
+            <a href="#faq">FAQ</a>
           </li>
           <li>
-            <a href="#">Support</a>
+            <a href="#supp">Support</a>
           </li>
         </ul>
       </div>

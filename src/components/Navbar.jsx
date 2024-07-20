@@ -38,13 +38,13 @@ const LandingPage = () => {
     {/* <!-- Navigation Links --> */}
     <div className="hidden md:flex justify-end">
         <ul className="flex items-center space-x-4">
-            <li><a href="#" >Refer & Earn</a></li>
-            <li><a href="#" >Resources</a></li>
-            <li><a href="#" >About Us</a></li>
+            <li><a href="#refer" >Refer & Earn</a></li>
+            <li><a href="#reso" >Resources</a></li>
+            <li><a href="#about" >About Us</a></li>
             <li className="ml-6 hidden md:flex items-center gap-1 px-[18px] py-[8px] bg-gray-300 hover:bg-gray-500 rounded-md text-black font-medium text-base text-nowrap"
-            ><a href="#" >Login</a></li>
+            ><a href="#login" >Login</a></li>
             <li className=" ml-6 hidden md:flex items-center gap-1 px-[18px] py-[8px] bg-blue-500 hover:bg-blue-600 rounded-md text-white font-medium text-base text-nowrap">
-              <a href="#" className="hover:text-">
+              <a href="#no" className="hover:text-">
               Try for free</a>
             </li>
         </ul>
